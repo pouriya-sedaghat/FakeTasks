@@ -1,2 +1,2 @@
 ## FakeTasks :
-this repository can contain any pakeges or ... in technologies.
+this repository can be contain any pakeges or ... in technologies.
